@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Win55 - Link trang chủ chính thức nhà cái Win55.com 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Win55 <https://win55.sbs/>`_ là một nhà cái cá cược trực tuyến uy tín, nổi bật trong lĩnh vực giải trí. Với nền tảng hiện đại và giao diện thân thiện, nhà cái cung cấp đa dạng các loại hình cá cược như thể thao, casino trực tuyến, và game đổi thưởng. Được cấp phép hoạt động hợp pháp bởi PAGCOR, Win55 cam kết mang đến trải nghiệm an toàn và minh bạch cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết: 
 
-.. note::
+Website: https://win55.sbs/ 
 
-   This project is under active development.
+SĐT: 0358764877
 
-Contents
---------
+Địa chỉ: 223 Đ. Quang Trung, Phường 10, Gò Vấp, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Mail: win55.sbs@gmail.com
 
-   usage
-   api
+#win55 #win55sbs #win55com #linkwin55
